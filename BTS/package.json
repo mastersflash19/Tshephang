@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "npx npm-run-all --parallel elm serve",
+    "elm": "npx elm-watch hot",
+    "serve": "npx serve"
+  }
+}
